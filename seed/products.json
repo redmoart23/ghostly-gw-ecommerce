@@ -1,0 +1,162 @@
+[
+    {
+        "id": "cl1a7k1xt0000qx7jv9mf1",
+        "name": "Camiseta Deportiva Hombre",
+        "image": "https://example.com/images/product1.jpg",
+        "description": "Camiseta transpirable para entrenamientos intensos.",
+        "price": 19.99,
+        "stock": 120
+    },
+    {
+        "id": "cl1a7k1xt0001qx7jv9mf2",
+        "name": "Leggings Mujer",
+        "image": "https://example.com/images/product2.jpg",
+        "description": "Leggings cómodos y elásticos para yoga y running.",
+        "price": 29.99,
+        "stock": 80
+    },
+    {
+        "id": "cl1a7k1xt0002qx7jv9mf3",
+        "name": "Zapatillas Running",
+        "image": "https://example.com/images/product3.jpg",
+        "description": "Zapatillas ligeras con soporte adicional para corredores.",
+        "price": 69.99,
+        "stock": 50
+    },
+    {
+        "id": "cl1a7k1xt0003qx7jv9mf4",
+        "name": "Pantalones Cortos Hombre",
+        "image": "https://example.com/images/product4.jpg",
+        "description": "Pantalones cortos para entrenamientos y deportes al aire libre.",
+        "price": 15.99,
+        "stock": 100
+    },
+    {
+        "id": "cl1a7k1xt0004qx7jv9mf5",
+        "name": "Chaqueta Deportiva Mujer",
+        "image": "https://example.com/images/product5.jpg",
+        "description": "Chaqueta ligera y resistente al agua para actividades al aire libre.",
+        "price": 49.99,
+        "stock": 40
+    },
+    {
+        "id": "cl1a7k1xt0005qx7jv9mf6",
+        "name": "Guantes de Entrenamiento",
+        "image": "https://example.com/images/product6.jpg",
+        "description": "Guantes acolchados para levantamiento de pesas y entrenamiento.",
+        "price": 12.99,
+        "stock": 200
+    },
+    {
+        "id": "cl1a7k1xt0006qx7jv9mf7",
+        "name": "Sudadera Deportiva Hombre",
+        "image": "https://example.com/images/product7.jpg",
+        "description": "Sudadera de algodón ideal para uso casual o deportivo.",
+        "price": 29.99,
+        "stock": 90
+    },
+    {
+        "id": "cl1a7k1xt0007qx7jv9mf8",
+        "name": "Top Deportivo Mujer",
+        "image": "https://example.com/images/product8.jpg",
+        "description": "Top ajustado con soporte para actividades de alto impacto.",
+        "price": 19.99,
+        "stock": 70
+    },
+    {
+        "id": "cl1a7k1xt0008qx7jv9mf9",
+        "name": "Mochila Deportiva",
+        "image": "https://example.com/images/product9.jpg",
+        "description": "Mochila resistente y espaciosa para el gimnasio o excursiones.",
+        "price": 39.99,
+        "stock": 60
+    },
+    {
+        "id": "cl1a7k1xt0009qx7jv9mf10",
+        "name": "Cinturón de Levantamiento",
+        "image": "https://example.com/images/product10.jpg",
+        "description": "Cinturón de soporte lumbar para entrenamiento de fuerza.",
+        "price": 24.99,
+        "stock": 30
+    },
+    {
+        "id": "cl1a7k1xt000aqx7jv9mf11",
+        "name": "Calcetines Deportivos (Pack de 3)",
+        "image": "https://example.com/images/product11.jpg",
+        "description": "Calcetines transpirables para máxima comodidad.",
+        "price": 9.99,
+        "stock": 150
+    },
+    {
+        "id": "cl1a7k1xt000bqx7jv9mf12",
+        "name": "Pantalón Chándal Mujer",
+        "image": "https://example.com/images/product12.jpg",
+        "description": "Pantalón de chándal suave y cómodo para actividades casuales.",
+        "price": 27.99,
+        "stock": 85
+    },
+    {
+        "id": "cl1a7k1xt000cqx7jv9mf13",
+        "name": "Gorra Deportiva",
+        "image": "https://example.com/images/product13.jpg",
+        "description": "Gorra ligera y ajustable para protegerte del sol.",
+        "price": 14.99,
+        "stock": 110
+    },
+    {
+        "id": "cl1a7k1xt000dqx7jv9mf14",
+        "name": "Botella de Agua Reutilizable",
+        "image": "https://example.com/images/product14.jpg",
+        "description": "Botella de agua de acero inoxidable con aislamiento.",
+        "price": 17.99,
+        "stock": 95
+    },
+    {
+        "id": "cl1a7k1xt000eqx7jv9mf15",
+        "name": "Camiseta Sin Mangas Hombre",
+        "image": "https://example.com/images/product15.jpg",
+        "description": "Camiseta sin mangas ideal para entrenamientos de alta intensidad.",
+        "price": 15.99,
+        "stock": 130
+    },
+    {
+        "id": "cl1a7k1xt000fqx7jv9mf16",
+        "name": "Banda Elástica de Resistencia",
+        "image": "https://example.com/images/product16.jpg",
+        "description": "Banda elástica para ejercicios de fuerza y estiramiento.",
+        "price": 9.99,
+        "stock": 200
+    },
+    {
+        "id": "cl1a7k1xt000gqx7jv9mf17",
+        "name": "Pantalones de Compresión Hombre",
+        "image": "https://example.com/images/product17.jpg",
+        "description": "Pantalones de compresión para entrenamientos de alto rendimiento.",
+        "price": 25.99,
+        "stock": 60
+    },
+    {
+        "id": "cl1a7k1xt000hqx7jv9mf18",
+        "name": "Short Deportivo Mujer",
+        "image": "https://example.com/images/product18.jpg",
+        "description": "Short ligero y transpirable ideal para entrenamientos y correr.",
+        "price": 17.99,
+        "stock": 75
+    },
+    {
+        "id": "cl1a7k1xt000iqx7jv9mf19",
+        "name": "Reloj Deportivo",
+        "image": "https://example.com/images/product19.jpg",
+        "description": "Reloj con seguimiento de actividad y resistencia al agua.",
+        "price": 99.99,
+        "stock": 25
+    },
+    {
+        "id": "cl1a7k1xt000jqx7jv9mf20",
+        "name": "Rodillera Deportiva",
+        "image": "https://example.com/images/product20.jpg",
+        "description": "Rodillera ajustable para soporte y protección durante el ejercicio.",
+        "price": 14.99,
+        "stock": 70
+    }
+]
